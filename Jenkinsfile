@@ -6,7 +6,6 @@ stages {
                 sh 'echo hi'
             }
         }
-    
    /* stages {
         stage('Build') {
             steps {
